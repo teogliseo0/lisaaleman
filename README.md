@@ -34,7 +34,7 @@
 
 ----
  
-    touch index.html (англ. touch, «коснуться») — создай файл index.html в текущей папке; 
+    touch index.html — создать файл index.html в текущей папке; 
 
 ----
     
@@ -42,7 +42,7 @@
 
 ----
     
-    mkdir second-project (от англ. make directory, «создать директорию») — создай папку с именем second-project в текущей папке. 
+    mkdir second-project — создать папку с именем second-project в текущей папке. 
 
 ----
 
@@ -51,11 +51,11 @@
 
 ----
  
-    cp file.txt ~/my-dir (от англ. copy, «копировать») — скопируй файл в другое место; 
+    cp file.txt ~/my-dir — скопировать файл в другое место; 
 
 ----
     
-    mv file.txt ~/my-dir (от англ. move, «переместить») — перемести файл или папку в другое место. 
+    mv file.txt ~/my-dir — переместить файл или папку в другое место. 
 
 ----    
  
@@ -63,7 +63,7 @@
 
 ----
 
-    cat file.txt (от англ. concatenate and print, «объединить и распечатать») — распечатай содержимое текстового файла file.txt. 
+    cat file.txt — распечатать содержимое текстового файла file.txt. 
 
 ----
  
@@ -71,14 +71,14 @@
 
 ----
 
-    rm about.html (от англ. remove, «удалить») — удали файл about.html; 
+    rm about.html — удалить файл about.html; 
 
 ----
     
-    rmdir images (от англ. remove directory, «удалить директорию») — удали папку images; 
+    rmdir images — удалить папку images; 
 
 ----
     
-    rm -r second-project (от англ. remove, «удалить» + recursive, «рекурсивный») — удали папку second-project и всё, что она содержит.
+    rm -r second-project — удалить папку second-project и всё, что она содержит.
 
 ----
